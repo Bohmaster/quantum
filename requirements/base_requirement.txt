@@ -1,0 +1,8 @@
+Django
+psycopg2
+Pillow
+fabric
+Pygments
+South
+ipython
+easy-thumbnails
